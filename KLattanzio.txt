@@ -1,0 +1,9 @@
+git add toBeInRepo.txt
+git commit
+
+git add toBeStaged
+
+git add toBeModified
+(edit toBeModified)
+
+https://github.com/klattanz/CISC275-Fall2018-first-git
